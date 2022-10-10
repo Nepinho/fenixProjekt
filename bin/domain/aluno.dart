@@ -1,9 +1,10 @@
-class Aluno {
-  String matricula;
-  String alunoNome;
-  String turma;
- 
 
-  Aluno(this.matricula,this.alunoNome, this.turma);
+class Aluno {
+  
+  String matricula;
+  String aluno;
+  // String turma;
+ 
+  Aluno(this.matricula,this.aluno);
 
 }
